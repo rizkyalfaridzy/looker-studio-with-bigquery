@@ -3,11 +3,11 @@
 <details>
 <summary> <b>Dashboard<b> </summary>
 
-1.![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
+1.
 <details>
 <summary> <b>Summary Report<b> </summary>
 
-1. 
+1.![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
 
 </details>
 
