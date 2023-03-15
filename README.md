@@ -6,7 +6,7 @@
 1. 
 
 </details>
-
+![dashboard](DASHBOARD.PNG])
 <details>
 <summary> <b>Summary Report<b> </summary>
 
