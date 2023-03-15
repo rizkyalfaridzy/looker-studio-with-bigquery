@@ -3,11 +3,23 @@
 <details>
 <summary> <b>Dashboard<b> </summary>
 
-1.
+1.![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
 <details>
 <summary> <b>Summary Report<b> </summary>
 
-1.![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
+Here's an overview from the yellow taxi in New York in 2019
+1. Total trips during 2019 reached 84.4 billion
+2. Total Distance in 2019 reached 255.2 billion
+3. Total Passengers in 2019 reached 131.2 billion
+4. Total revenue in 2019 reached 1.6 billion
+5. The average fare is 13.5k, while the maximum is 943.3k
+6. The longest decline occurred for three consecutive months starting from May to August
+7. The longest increase occurred during the two months from August to October.
+8. For a significant decrease occurred from January to February
+9. For a significant increase occurred in February to march
+10. Peak hours occur at 11 PM - 8 AM with the highest peak at 6 PM
+11. For the type of payment used the most are credit cards with a percentage of 71.8% and cash of 27.1%.
+12. Meanwhile, for a comparison of payment types with additional income, it can be seen that the credit card type of additional income is dominated by tip_amount, while other types are dominated by extra
 
 </details>
 
