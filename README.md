@@ -3,7 +3,7 @@
 <details>
 <summary> <b>Dashboard<b> </summary>
 
-1. </details>![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
+1.![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
 <details>
 <summary> <b>Summary Report<b> </summary>
 
