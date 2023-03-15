@@ -6,7 +6,7 @@
 1. 
 
 </details>
-![dashboard.png]({https://raw.githubusercontent.com/rizkyalfaridzy/looker-studio-with-bigquery/main/DASHBOARD.PNG})
+![dashboard.png](https://github.com/rizkyalfaridzy/looker-studio-with-bigquery/blob/main/DASHBOARD.PNG)
 <details>
 <summary> <b>Summary Report<b> </summary>
 
